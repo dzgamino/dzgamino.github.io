@@ -99,7 +99,7 @@ figure {
 }
 
 article {
-	background-color: rgb(255, 255, 255);
+	background-color: rgb(151, 151, 151);
 	max-width: 40em;
 	margin: auto;
 }
@@ -166,7 +166,7 @@ footer {
 }
 
 address {
-	color: rgb(229, 122, 195);
+	color: rgb(255, 255, 255);
     margin: 0.5em;
 	}
 
