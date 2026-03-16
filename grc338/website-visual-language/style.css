@@ -12,7 +12,7 @@ div {
 }
 	
 div.home-container { 
-	background: url(home-background.jpg) center center fixed;
+	background: url(home-background.jpeg) center center fixed;
 	background-size: cover;
 	position: relative;
 	min-height: 100vh;
