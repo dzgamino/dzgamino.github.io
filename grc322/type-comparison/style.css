@@ -1,0 +1,67 @@
+/*CSS DOCUMENT */
+
+
+body {
+	background-color: #fffffc;
+	color: #101953;
+	font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+div.container {
+	max-width: 40em;
+	margin: auto;
+}
+
+img {
+	width: 100%;
+}
+
+figure {
+	margin: 1em 0;
+}
+
+h1, h2, h3, h4, p, ul, ol, li {
+	margin: 0; 
+	padding:0; 
+	font-size: 1em; 
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 2.5em; 
+	font-weight: 700;
+	padding: 0.75em 0em;
+}
+
+h2 {
+	font-size: 2em; 
+	font-weight: 400;
+	padding: 0.5em 0em;
+}
+
+h3 {
+	font-size: 1.5em; 
+	font-weight: 400;
+	padding: 0.25em 0em;
+}
+
+h4 {
+	font-size: 1.25em; 
+	font-weight: 400;
+	padding: 0.25em 0em;
+}
+
+p {
+	font-size: 1em; 
+	font-weight: 400;
+	padding: 0.25em 0em;
+	line-height: 1.5em;
+}
+
+figcaption {
+	font-size: 1em; 
+	font-style: italic;
+	font-weight: 400;
+	padding: 0.25em 0em;
+	line-height: 1.5em;
+}
